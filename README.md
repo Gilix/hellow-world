@@ -1,21 +1,12 @@
-## Documentación y entrenamiento de las herramientas desarrolladas por Datawheel
+El Content Management System (CMS) es una tecnología creada en Datawheel para facilitar la distribución y visualización de datos. Al utilizar elementos visuales como tablas, gráficos y mapas, el CMS permite crear perfiles que facilitan transmitir información. Si bien el CMS busca ser intuitivo al usuario, permite utilizar Javascript para crear formas avanzadas de contenido. 
 
-Este wiki es la principal fuente de documentación para el entrenamiento de los desarrolladores que trabajan en (o contribuyen a) crear las plataformas de Datawheel. Si esta es la primera ocasión que escuchas sobre las plataformas desarrolladas por Datawheel, te recomendamos comenzar explorando los siguientes sitios: [DataUSA](https://datausa.io), [OEC ](https://oec.world), [DataMexico](https://datamexico.org). 
+El CMS se organiza en perfiles independientes que se crean a partir de dimensiones. La interface del CMS está dividida en tres partes: 
+1. [[Dimensiones|¿Qué es una dimensión?]] de datos; 
+2. [Herramientas](https://github.com/Datawheel/training-/wiki/Elementos) para la creación de contenido: [[generadores|Generadores]], [[materializador|Materializadores]], [[selectores|Selectores]], y [[formateadores|Formateadores]], y; 
+3. [Secciones ](https://github.com/Datawheel/training-/wiki/Secciones) para dar forma al sitio: metadata, subtítulos, título, párrafo, y visualizaciones. 
 
-```markdown
+<img width="815" alt="Screen Shot 2020-11-16 at 4 56 42 PM" src="https://user-images.githubusercontent.com/7605814/99312909-b9742200-282c-11eb-9f4a-e3815326c1a1.png">
 
-##  Navegación rápida 
-
-### [Acerca de las plataformas](https://github.com/Datawheel/training-/wiki/Acerca-de-las-plataformas)
-
-Presentamos las plataformas de Datawheel: porqué las construimos y para qué sirven 
-
-### [Documentación ](https://github.com/Datawheel/training-/wiki/Documentación)
-Manual ETL, Manual Tesseract UI, y [Manual CMS](https://github.com/Datawheel/training-/wiki/Manual-CMS).
-
-Para mayores detalles ve [Plataformas Datawheel](https://www.datawheel.us).
-
-```
 
 
 
